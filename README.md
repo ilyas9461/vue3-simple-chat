@@ -38,6 +38,9 @@ $ git clone https://github.com/ilyas9461/vue3-simple-chat.git
 $ npm install
 
 
+<a href="https://www.youtube.com/watch?v=sUjTW-Dg5e8" target="_blank">
+     <img src="./public/youtube.png" alt="youtube" width="55">
+</a>
 ```
 
 ## Contact
